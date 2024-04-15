@@ -30,6 +30,8 @@ result=np.linalg.solve(A,B)
 print(result)
 ```
 ## Output:
+![Screenshot 2024-04-15 135918](https://github.com/Gokul1410/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/153058321/684df458-f72f-4d77-8543-951c5ad318e3)
+
 ![Screenshot 2024-04-15 134106](https://github.com/Gokul1410/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/153058321/a2e000a3-322a-47f3-948e-1beb792ffb91)
 
 ## Result: 
